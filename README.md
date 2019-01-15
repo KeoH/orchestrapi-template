@@ -1,5 +1,5 @@
-# basic-project-html
-Basic project for HTML design with autoreload
+# OrchestraPi Template
+HTML and SASS project to create OrchestraPi frontent design.
 
 
 ## How to use this template project
