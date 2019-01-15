@@ -1,0 +1,28 @@
+{
+  "name": "basic-proyect-html",
+  "version": "0.0.1",
+  "description": "Basic HTML project with autoreload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browserify",
+    "sass",
+    "browserSync"
+  ],
+  "author": "Francisco Manzano Magaña <keoh77@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "browserify": "^16.2.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-hb": "^7.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-util": "^3.0.8"
+  }
+}
